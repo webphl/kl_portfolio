@@ -70,7 +70,7 @@ const Sidebar = () => {
             textTransform="uppercase"
             variants={fadeInUp}
           >
-            Marc Jhon
+            Peio HENAFF
           </MotionHeading>
           <MotionHeading
             as="h2"
